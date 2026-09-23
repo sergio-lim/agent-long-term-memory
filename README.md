@@ -6,6 +6,7 @@
 [![python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![deps](https://img.shields.io/badge/deps-none-3ee0b3.svg)](#quickstart)
 [![offline](https://img.shields.io/badge/offline-yes-7c9cff.svg)](#how-it-works)
+[![ci](https://github.com/sergio-lim/agent-long-term-memory/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sergio-lim/agent-long-term-memory/actions/workflows/ci.yml)
 
 ![demo](assets/demo.gif)
 
